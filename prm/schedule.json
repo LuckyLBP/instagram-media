@@ -168,6 +168,15 @@
   "time": "10:00",
   "kind": "story",
   "files": [
+   "story-1000-advent1.jpg"
+  ],
+  "holiday": true
+ },
+ {
+  "date": "2026-11-29",
+  "time": "10:00",
+  "kind": "story",
+  "files": [
    "story-1000.jpg"
   ]
  },
@@ -386,6 +395,15 @@
   "files": [
    "story-1730.jpg"
   ]
+ },
+ {
+  "date": "2026-12-06",
+  "time": "10:00",
+  "kind": "story",
+  "files": [
+   "story-1000-advent2.jpg"
+  ],
+  "holiday": true
  },
  {
   "date": "2026-12-06",
@@ -620,6 +638,15 @@
   "time": "10:00",
   "kind": "story",
   "files": [
+   "story-1000-lucia.jpg"
+  ],
+  "holiday": true
+ },
+ {
+  "date": "2026-12-13",
+  "time": "10:00",
+  "kind": "story",
+  "files": [
    "story-1000.jpg"
   ]
  },
@@ -848,6 +875,15 @@
   "time": "10:00",
   "kind": "story",
   "files": [
+   "story-1000-advent4.jpg"
+  ],
+  "holiday": true
+ },
+ {
+  "date": "2026-12-20",
+  "time": "10:00",
+  "kind": "story",
+  "files": [
    "story-1000.jpg"
   ]
  },
@@ -866,5 +902,23 @@
   "files": [
    "story-1730.jpg"
   ]
+ },
+ {
+  "date": "2026-12-24",
+  "time": "12:00",
+  "kind": "story",
+  "files": [
+   "story-1200-jul.jpg"
+  ],
+  "holiday": true
+ },
+ {
+  "date": "2026-12-31",
+  "time": "12:00",
+  "kind": "story",
+  "files": [
+   "story-1200-nyar.jpg"
+  ],
+  "holiday": true
  }
 ]
